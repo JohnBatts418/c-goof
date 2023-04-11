@@ -5,3 +5,4 @@ Vulnerable C++ project
 
 Dependencies are in `vendor`. Clone this project, and run `snyk unmanaged test` from the project folder. To import the results in Snyk App, run `snyk unmanaged monitor`.
 
+asbsascasca
